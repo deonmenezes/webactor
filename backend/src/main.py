@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from src.api.routes import scenes, uploads
 
-app = FastAPI(title="Scene Stealer API")
+app = FastAPI(title="Actify API")
 
 # CORS settings
 app.add_middleware(
@@ -19,4 +19,4 @@ app.include_router(scenes.router, prefix="/api", tags=["scenes"])
 
 @app.get("/")
 async def root():
-    return {"message": "Scene Stealer API is running"}
+    return {"message": "Actify API is running"}

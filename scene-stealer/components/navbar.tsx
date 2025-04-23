@@ -25,7 +25,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center">
               <span className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-amber-200 to-amber-500 font-cinematic">
-                Scene Stealer
+                Actify
               </span>
             </Link>
           </div>

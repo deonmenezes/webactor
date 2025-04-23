@@ -40,7 +40,7 @@ export default function HomePage() {
           className="max-w-3xl mx-auto"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-amber-200 to-amber-500">
-            Scene Stealer
+            Actify
           </h1>
           <p className="text-xl md:text-2xl mb-8 text-zinc-300">Step into the Scene. Be the Star.</p>
           <p className="text-md md:text-lg mb-12 text-zinc-400 max-w-2xl mx-auto">

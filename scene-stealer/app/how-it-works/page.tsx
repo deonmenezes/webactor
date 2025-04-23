@@ -40,7 +40,7 @@ export default function HowItWorksPage() {
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h1 className="text-4xl font-bold mb-4 text-amber-400">How It Works</h1>
           <p className="text-xl text-zinc-300">
-            Scene Stealer uses advanced AI to analyze and score your acting performances
+            Actify uses advanced AI to analyze and score your acting performances
           </p>
         </div>
 
@@ -82,9 +82,9 @@ export default function HowItWorksPage() {
           </div>
 
           <div className="mt-16 bg-zinc-900/50 backdrop-blur-sm p-8 rounded-lg border border-zinc-800">
-            <h2 className="text-2xl font-bold mb-4 text-amber-400">The Technology Behind Scene Stealer</h2>
+            <h2 className="text-2xl font-bold mb-4 text-amber-400">The Technology Behind Actify</h2>
             <p className="text-zinc-300 mb-4">
-              Scene Stealer uses advanced AI models to analyze your acting performance:
+              Actify uses advanced AI models to analyze your acting performance:
             </p>
             <ul className="space-y-3 text-zinc-300">
               <li className="flex items-start gap-2">

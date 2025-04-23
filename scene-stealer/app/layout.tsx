@@ -8,7 +8,7 @@ import Navbar from "@/components/navbar"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Scene Stealer - Step into the Scene. Be the Star.",
+  title: "Actify - Step into the Scene. Be the Star.",
   description: "Act out your favorite movie scenes and get scored with AI",
     generator: 'v0.dev'
 }
